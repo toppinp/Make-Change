@@ -1,0 +1,52 @@
+C:\Users\erau\source\repos\MakeChange\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.exe
+C:\Users\erau\source\repos\MakeChange\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.deps.json
+C:\Users\erau\source\repos\MakeChange\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.json
+C:\Users\erau\source\repos\MakeChange\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.dev.json
+C:\Users\erau\source\repos\MakeChange\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\erau\source\repos\MakeChange\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\erau\source\repos\MakeChange\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\MakeChange\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfoInputs.cache
+C:\Users\erau\source\repos\MakeChange\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfo.cs
+C:\Users\erau\source\repos\MakeChange\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\erau\source\repos\MakeChange\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\erau\source\repos\MakeChange\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\erau\source\repos\MakeChange\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.exe
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.deps.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.dev.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange(Paul)\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.exe
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.deps.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.dev.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange2\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.exe
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.deps.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.dev.json
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MakeChange4\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.genruntimeconfig.cache
